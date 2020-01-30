@@ -1,0 +1,10 @@
+body {
+    background-color: magenta;
+}
+
+.img {
+    margin: 0 auto;
+    max-width: 50%;
+    max-height: 70%;
+    border: 1px solid white;
+}
